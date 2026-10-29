@@ -1,0 +1,11 @@
+opencv-python
+matplotlib
+Pillow
+numpy==1.26.4 # numpy 2.0 not compatible at the moment
+scipy
+scikit-learn
+tqdm
+tifffile
+argparse
+PyYAML
+pandas
