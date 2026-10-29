@@ -1,9 +1,11 @@
-# Robust Few-Shot AD with VFMs
+# [BMVC2026] Adversarially Robust Few-Shot Anomaly Detection with Vision Foundation Models
+
+*Akib Mohammed Khan, Bartosz Krawczyk*
 
 Official code for our BMVC 2026 paper **"Adversarially Robust Few-Shot Anomaly
 Detection with Vision Foundation Models"**.
 
-[[Paper]](<PAPER_LINK>) · [[arXiv]](<https://arxiv.org/abs/2510.13643>)
+[[Paper]](<TBD>) · [[arXiv]](<https://arxiv.org/abs/2510.13643>)
 
 This repository evaluates the adversarial robustness of patch-based few-shot anomaly detection (DINOv2 backbone + k-NN memory bank) under white-box FGSM and PGD attacks, and provides two defenses:
 
@@ -209,7 +211,7 @@ results_<DATASET>/<model>_<resolution>/<shots>-shot_preprocess=<p>_attack=<a>_ep
 If you find this code useful, please cite:
 
 ```bibtex
-<BIBTEX ENTRY>
+<TBD>
 ```
 
 ---
