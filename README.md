@@ -1,6 +1,6 @@
-# robust_fsad
+# Robust Few-Shot AD with VFMs
 
-Official code for our BMVC paper **"Adversarially Robust Few-Shot Anomaly
+Official code for our BMVC 2026 paper **"Adversarially Robust Few-Shot Anomaly
 Detection with Vision Foundation Models"**.
 
 [[Paper]](<PAPER_LINK>) · [[arXiv]](<https://arxiv.org/abs/2510.13643>)
